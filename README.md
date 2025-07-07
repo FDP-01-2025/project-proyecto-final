@@ -140,7 +140,8 @@ This game is only available on Windows
 
 🧱Compile the game
 Open your terminal in the project folder and run, command:
-g++ [names of the cpp files with the extention .cpp] -o TheHackerChallenge
+g++ main.cpp menu.cpp endofthegame.cpp virtual_network.cpp intruders.cpp decrypt.cpp DDoS.cpp -o "wherever_you_want".exe
+
 
 ---🎮Run the game🎮---
 
